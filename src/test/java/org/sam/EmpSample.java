@@ -6,5 +6,7 @@ public class EmpSample {
 		
 		System.out.println("Emp one change");
 		System.out.println("First Change");
+		System.out.println("Second Changes");
+
 	}
 }
